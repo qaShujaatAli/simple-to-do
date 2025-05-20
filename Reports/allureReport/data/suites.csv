@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3323","Verify that user is able to Add a new task","","Thu May 15 16:31:28 PKT 2025","passed","Thu May 15 16:31:31 PKT 2025","","Simple ToDo App","Verify that user is able to Add a new task",""
+"","12292","Verify that user is able to Launch App and Add a new task","","Thu May 15 16:31:13 PKT 2025","passed","Thu May 15 16:31:25 PKT 2025","","Simple ToDo App","Verify that user is able to Launch App and Add a new task",""
+"","5516","Verify that user is able to Delete a task","","Thu May 15 16:31:32 PKT 2025","passed","Thu May 15 16:31:38 PKT 2025","","Simple ToDo App","Verify that user is able to Delete a task",""
+"","2746","Verify that the app disallows adding an empty task","","Thu May 15 16:31:25 PKT 2025","passed","Thu May 15 16:31:28 PKT 2025","","Simple ToDo App","Verify that the app disallows adding an empty task",""
+"","482","Verify that user is able to mark a task as completed","","Thu May 15 16:31:31 PKT 2025","passed","Thu May 15 16:31:32 PKT 2025","","Simple ToDo App","Verify that user is able to mark a task as completed",""

@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Simple ToDo App","1","0","Verify that user is able to Add a new task","0"
+"0","","0","Simple ToDo App","1","0","Verify that user is able to Launch App and Add a new task","0"
+"0","","0","Simple ToDo App","1","0","Verify that user is able to Delete a task","0"
+"0","","0","Simple ToDo App","1","0","Verify that the app disallows adding an empty task","0"
+"0","","0","Simple ToDo App","1","0","Verify that user is able to mark a task as completed","0"
